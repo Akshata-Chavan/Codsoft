@@ -1,4 +1,4 @@
-### Project Description: ATM Interface in Java with OOP Concepts
+# Project Description: ATM Interface in Java with OOP Concepts
 
 This Java project, named `ATM Interface`, models an Automated Teller Machine (ATM) using Object-Oriented Programming (OOP) concepts. It consists of several classes, each responsible for specific aspects of the ATM functionality.
 
@@ -40,7 +40,29 @@ This program showcases the use of OOP principles to model an ATM system, making 
 
 Use this program to understand the basic functionalities of an ATM system and how user authentication, balance management, and transaction tracking are handled.
 
-### Project Description: Student Grading System in Java
+# Project Description: Quiz Application in Java
+
+This Java application is a simple quiz game that allows users to answer multiple-choice questions. It's a graphical user interface (GUI) application developed using Swing, a Java GUI widget toolkit.
+
+### Features:
+
+- **Dynamic Questions:** The questions are loaded dynamically from a predefined set of questions.
+- **User Interaction:** Users can select one option from the multiple-choice answers.
+- **Score Tracking:** The application keeps track of the user's score based on correct answers.
+- **Next and Result Buttons:** Users can navigate through questions using the "Next" button and view their final result at the end.
+- **Clean GUI:** The application provides a clean and intuitive graphical interface for a seamless user experience.
+
+### How to Use:
+
+1. Starting the Quiz: Run the application, and the first question will be displayed.
+   
+2. Answering Questions: Choose an option and click "Next" to move to the next question.
+   
+3. Result: After answering all questions, the "Result" button becomes visible. Click it to see your final score.
+
+Enjoy quizzing! 🚀
+
+# Project Description: Student Grading System in Java
 
 This Java project, named `Student Grading System`, is a simple program that calculates the average marks of a student based on the marks obtained in multiple subjects. The program then assigns a grade based on the calculated average.
 
@@ -75,7 +97,7 @@ To use the program, execute the `grades` class. The program will guide you throu
 
 Use this program to quickly assess and grade student performance!
 
-### Project Description: Number Game in Java
+# Project Description: Number Game in Java
 
 This Java project, named `numgame`, is an interactive number guessing game where the player attempts to guess a randomly selected number between 100 and 1000. The game provides the player with a limited number of trials (7 in this case) to guess the correct number.
 
