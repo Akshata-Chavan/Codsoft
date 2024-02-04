@@ -38,7 +38,7 @@ Execute the `Atm` class to start the ATM simulation. Follow the on-screen prompt
 
 This program showcases the use of OOP principles to model an ATM system, making the code modular, maintainable, and extensible.
 
-Use this program to understand the basic functionalities of an ATM system and how user authentication, balance management, and transaction tracking are handled.
+Use this program to understand the basic functionalities of an ATM system and how user authentication, balance management, and transaction tracking are handled.🌐💰💻
 
 # Project Description: Quiz Application in Java
 
@@ -95,7 +95,7 @@ This Java project, named `Student Grading System`, is a simple program that calc
 
 To use the program, execute the `grades` class. The program will guide you through entering marks and then display the calculated grade.
 
-Use this program to quickly assess and grade student performance!
+Use this program to quickly assess and grade student performance!🎓📊
 
 # Project Description: Number Game in Java
 
@@ -125,4 +125,4 @@ This Java project, named `numgame`, is an interactive number guessing game where
 
 To play the game, execute the `numgame` class. The program will guide you through the guessing process, providing feedback and announcing the outcome at the end of the game.
 
-Enjoy the challenge of guessing the right number!
+Enjoy the challenge of guessing the right number!🔢🎮
